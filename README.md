@@ -142,12 +142,6 @@ I specialize in creating robust, scalable, and secure IT environments.
       <br><sub><b>Vagrant</b></sub>
     </td>
     <td align="center" width="80">
-      <a href="https://www.vaultproject.io/">
-        <img src="https://icons-for-free.com/iff/png/512/hashicorp+vault-1330289841004071522.png" width="40" height="40" alt="Vault" />
-      </a>
-      <br><sub><b>Vault</b></sub>
-    </td>
-    <td align="center" width="80">
       <a href="https://www.selenium.dev/">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="Selenium" />
       </a>
