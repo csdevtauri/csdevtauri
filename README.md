@@ -208,13 +208,3 @@ I specialize in creating robust, scalable, and secure IT environments.
   <a href="https://github.com/csdevtauri/-Infrastructure_OpenStack_OnCloud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=csdevtauri&repo=-Infrastructure_OpenStack_OnCloud&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/csdevtauri/Labs_Vagrant_Docker_Terraform_Openstack" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=csdevtauri&repo=Labs_Vagrant_Docker_Terraform_Openstack&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/csdevtauri/csdevtauri/blob/output/github-contribution-grid-snake-dark.svg" alt="csdevtauri stats snake" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="csdevtauri" />
-</p>
