@@ -143,7 +143,7 @@ I specialize in creating robust, scalable, and secure IT environments.
     </td>
     <td align="center" width="80">
       <a href="https://www.vaultproject.io/">
-        <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" width="40" height="40" alt="Vault" />
+        <img src="https://icons-for-free.com/iff/png/512/hashicorp+vault-1330289841004071522.png" width="40" height="40" alt="Vault" />
       </a>
       <br><sub><b>Vault</b></sub>
     </td>
