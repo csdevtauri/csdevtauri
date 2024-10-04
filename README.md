@@ -19,6 +19,11 @@ I specialize in creating robust, scalable, and secure IT environments.
 * 🌱 Always learning and staying up-to-date with the latest in cloud security and DevOps practices
 * 💡 Passionate about bridging the gap between development and operations for seamless, secure deployments
 
+
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./assets/Ops-working_rounded.gif" alt="working developer">
+</p>
+
 ### Skills
 
 <table>
